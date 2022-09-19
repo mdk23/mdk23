@@ -9,7 +9,7 @@ mdk23/mdk23 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Tecnologias do meu dia a dia
+### Tecnologias do meu Dia a Dia
  
 <div>
     <br/>
@@ -23,10 +23,3 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk23&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-    Amante de Tecnologia, e facilitar ainda mais a vida das pessoas atravÃ©s dela.
-<br/>
-
-
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
