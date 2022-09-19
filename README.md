@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdk23
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning from my .... 
 - 🌱 I’m currently learning React JS, Redux, Next JS and so much more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -23,6 +23,3 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk23&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
