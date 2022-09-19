@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk23&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdk23&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdk23&repo=real-estate-app)]( https://github.com/mdk23/real-estate-app)https://github.com/mdk23/real-estate-app
