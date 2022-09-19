@@ -10,10 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Tecnologias do meu dia a dia
-display: flex;
-  flex-flow: row wrap;
+ 
 
-<div style="display: flex;flex-flow: row wrap;">
+<div style="display: flex; flex-flow:row wrap;">
     <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
